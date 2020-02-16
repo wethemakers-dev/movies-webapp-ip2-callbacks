@@ -6,7 +6,8 @@ Your assignment is to create a web application, which allows users to sign-in/si
 
 ### Bonus Features:
 - IMDB APIs Integration
-- Favorites Reminder
+- Favorites & Reminder
+- Public Link
 - Todo List App Integration
 
 Everything should be saved into a database and handled using a `Node` + `Express` server which also need to be created.
